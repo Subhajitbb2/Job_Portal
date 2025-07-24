@@ -83,7 +83,7 @@ DATABASES = {
     'default': dj_database_url.parse(
         "postgresql://postgres.fpsqsdvrxevrlwmdybps:Subha@123@aws-0-ap-south-1.pooler.supabase.com:5432/postgres"
     )
-}
+} 
 
 
 # Password validation
